@@ -1,4 +1,3 @@
-#범주형 자료분석
 #2.16
 a.lungcancer = array(c(688, 21, 650, 59), dim = c(2, 2))
 t.lungcancer = as.table(a.lungcancer)
