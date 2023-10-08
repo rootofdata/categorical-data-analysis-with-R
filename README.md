@@ -1,5 +1,4 @@
-# categorical-data-analysis-with-R
-categorical data analysis with R
+# Categorical-Data-Analysis
 
 I conducted a project focusing on the analysis of qualitative data commonly encountered in social sciences and medicine. The project delved into classical tests, measures, and models for data presented in 2D and 3D contingency tables. Topics covered included logistic regression models, log-linear models, and other advanced techniques. Through this project, in-depth analysis of qualitative or categorical data was facilitated.
 
